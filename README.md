@@ -10,7 +10,7 @@ React, React Router Dom, useState, useEffect, Create React App, Styled Component
 ## Rodando o projeto:
 git clone //
 entre na pasta //
-npm instal //
+npm install //
 npm start //
 
 
