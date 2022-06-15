@@ -8,12 +8,11 @@
 React, React Router Dom, useState, useEffect, Create React App, Styled Components, API TheMovieDataBase
 
 ## Rodando o projeto:
-git clone
-entre na pasta
-npm instal 
-npm start
+git clone //
+entre na pasta //
+npm instal //
+npm start //
 
-##Créditos:
 
 ### projeto feito com a ajuda de:
 Giovanna Moeller(@girlcoding)
